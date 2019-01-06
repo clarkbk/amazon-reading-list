@@ -1,7 +1,3 @@
-## Description
-
-Scrape lists of owned and wishlisted books from Amazon, pull in metadata from Goodreads, calculate custom priority rating, and save list to CSV.
-
 ## Installation
 
 ```
